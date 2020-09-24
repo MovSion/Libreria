@@ -1,7 +1,5 @@
 # Libreria
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Dependecias
 
 AutoMapper.Extensions.Microsoft.DependencyInjection
